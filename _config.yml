@@ -17,6 +17,7 @@ timezone: Asia/Seoul
 title: 리뷰의 개발일지 # the main title
 
 tagline: GAME Developer CPP # it will display as the subtitle
+HANSHIN UNIVERSITY COMPUTER SCIENCE/Engineering
 
 description: >- # used by seo meta and the atom feed
   리뷰의 C++ 공부와 게임 개발일지를 쓰는 개인공간
