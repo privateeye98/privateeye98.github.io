@@ -1,5 +1,5 @@
 ---
-title: 알고리즘 1장
+title: 자료구조/알고리즘 들어가기 앞서..
 date: YYYY-MM-DD HH:MM:SS +09:00
 categories: [C/C++ 이론, 자료구조]
 tags:
