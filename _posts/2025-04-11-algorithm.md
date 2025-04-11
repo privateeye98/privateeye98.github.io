@@ -1,6 +1,6 @@
 ---
 title: 알고리즘, 들어가기 앞서 
-date: YYYY-MM-DD HH:MM:SS +11:57
+date: 2025-04-11 15:35:00 +09:00
 categories: [C/C++ 이론, 알고리즘]
 tags:
   [
