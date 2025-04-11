@@ -10,6 +10,7 @@ order: 4
 ---
 KR
 ## 💡 관심 분야
+- C++,C#,C
 - 🎮 게임 개발 및 VFX
 - 🎨 컴퓨터 그래픽스
   
@@ -29,6 +30,7 @@ JP
 ---
 
 ## 💡 興味のある分野
+- C++,C#,C
 - 🎮 ゲーム開発とVFX
 - 🎨 コンピュータグラフィックス
 
@@ -49,6 +51,7 @@ Right now, I’m working on a project called “Learning AI_DB,” developing an
 ---
 
 ## 💡 Interests
+- C++,C#,C
 - 🎮 Game Development and VFX
 - 🎨 Computer Graphics
 
